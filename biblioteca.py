@@ -29,3 +29,4 @@ for libro in resultado:
 coleccion.delete_one({"codigo": "LIB006"})
 print("Libro eliminado") 
 '''
+#hola que tal
